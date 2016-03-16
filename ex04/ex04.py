@@ -1,3 +1,4 @@
+#-*-coding:cp949 : 한글이 포함된 파이썬 .py 파일 첫 줄에 포함
 cars = 100
 space_in_a_car = 4.0
 drivers = 30
