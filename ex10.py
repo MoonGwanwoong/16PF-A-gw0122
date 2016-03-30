@@ -13,3 +13,8 @@ print tabby_cat
 print persian_cat
 print backslash_cat
 print fat_cat
+
+print "%%s : %r" % tabby_cat
+print "%%r : %s" % tabby_cat
+print "%%s : %s" % tabby_cat
+print "%%r : %r" % tabby_cat

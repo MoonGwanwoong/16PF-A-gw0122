@@ -6,3 +6,11 @@
 
 오후 6:57 2016-03-30
 \를 입력하다가 |를 입력 
+
+오후 7:57 03-30
+print "%%s : %r" % tabby_cat
+→      %s : "\tI'm tabbed in."
+print "%%r : %s" % tabby_cat
+→      %r : 	I'm tabbed in.
+
+tabby_cat : "\tI'm tabbed in."
