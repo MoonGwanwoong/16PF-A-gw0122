@@ -17,3 +17,4 @@ tabby_cat : "\tI'm tabbed in."
 
 05-11 19:00
 ex32 line23 - %d를 #d로 잘못적음
+ex33 line 6 - append를 appned로 잘못적음
