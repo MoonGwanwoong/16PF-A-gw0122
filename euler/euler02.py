@@ -6,7 +6,3 @@ while fibo[n] < 50 :
     n = n+1
 
 print fibo
-
-
-
-
