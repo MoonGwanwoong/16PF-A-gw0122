@@ -7,7 +7,7 @@ while i < 6:
 
     i = i + 1
     print "Numbers now: ", numbers
-    print "At the bottom i is %d" %i
+    print "At the bottom i is %d \n" %i
 
 
 print "The nubmers: "

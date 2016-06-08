@@ -1,5 +1,8 @@
-sentence = 'abc bcd efc hij'
-words = sentence.split(' ')
-print words
-sentence2 = 'gdf cxvc dyf bfh'
-words2 = break_words(sentence2)
+r = 'abc'
+print r
+r_list = list(r)
+print r_list
+r_list[0] = 'b'
+print r_list
+r2 = ','.join(r_list)
+print r2

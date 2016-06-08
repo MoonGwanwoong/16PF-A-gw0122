@@ -34,7 +34,7 @@ print "Michigan has: ", cities[states['Michigan']]
 print "Florida has: ", cities[states['Florida']]
 
 # print every state abbreviation ----------------------이거알아놓기
-print '-' * 10
+print '-' * 30
 for state, abbrev in states.items():
     print "%s is abbreviated %s" % (state, abbrev)
 
